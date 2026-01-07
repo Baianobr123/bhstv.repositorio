@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.bhstv" name="BHS TV Repo" version="1.0.0" provider-name="BHS">
+    <extension point="xbmc.addon.repository" name="BHS TV Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/Baianobr123/bhstv.repositorio/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Baianobr123/bhstv.repositorio/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Bainaobr123/bhstv.repositorio/main/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio BHS TV</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
